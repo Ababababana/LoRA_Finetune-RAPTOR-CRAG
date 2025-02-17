@@ -7,7 +7,11 @@ RAPTOR (Recursive Abstractive Processing for Tree-Organized Retrieval):
 
 
 CRAG (Corrective Retrieval Augmented Generation) :
+
 ![IMG_4806](https://github.com/user-attachments/assets/2561df18-1e98-4f45-a345-d2e020e61013)
 
 here simply implement as:
+
 ![IMG_4807](https://github.com/user-attachments/assets/faf529fc-898e-4b23-8ca8-d13403774ce7)
+
+
