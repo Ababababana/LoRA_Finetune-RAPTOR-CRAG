@@ -32,7 +32,7 @@ url_list = [
 inputs= "How use Langchain wth different pudantic versions?"
 
 
-llm = ChatOpenAI(model="gpt-3.5-turbo", temperature=0)
+llm = ChatOpenAI(model="glm-4-air", temperature=0)
 model_name = "BAAI/bge-base-en-v1.5"
 model_kwargs = {"device": "cpu"}
 encode_kwargs = {"normalize_embeddings": True}
