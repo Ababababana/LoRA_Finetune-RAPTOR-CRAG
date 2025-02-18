@@ -1,4 +1,12 @@
+Part 1： LoRA Finetune of  GLM-4 (6B)
 
+Using SimCLUE Dataset (pairs), for semantic understanding augmentation
+SimCLUE:  https://github.com/CLUEbenchmark/SimCLUE
+
+about 17GB memory required (better for 24GB+)
+
+
+Part 2:  RAPTOR-CRAG
 Simple Implementation of MS-RAPTOR-CRAG
 
 RAPTOR (Recursive Abstractive Processing for Tree-Organized Retrieval):
